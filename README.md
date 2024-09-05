@@ -11,6 +11,7 @@
 
 🔗 Feel free to explore my repositories below to see some of the projects I’ve been working on. I’m always open to collaboration and learning opportunities, so don’t hesitate to reach out!
 
+🔗 Visit my portfolio: https://my-portfolio2-virid.vercel.app/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mafuj.bishal.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mafujbishal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mafuj-ahmed-bishal/) 
