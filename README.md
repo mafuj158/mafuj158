@@ -3,6 +3,14 @@
   <img  src="https://github.com/bishal158/bishal158/assets/67275108/b8d532c5-d10f-4bb4-a5a0-863c0f7a9764" alt="coding" width="1000" >
 </a>
 <br>
+💫 About Me:
+
+👋 Hi there! I’m Md Mahfuj Ahmed Bishal, a junior frontend developer at <a href="https://softvence.agency/"> Softvence Ltd </a>. I specialize in building engaging and dynamic web applications using React, along with custom HTML, CSS, and JavaScript.
+
+🚀 My current focus is on mastering frontend technologies, but I’m driven by a passion to expand my skills and knowledge. My dream is to evolve into a full stack developer, integrating both frontend and backend technologies to create seamless, end-to-end solutions.
+
+🔗 Feel free to explore my repositories below to see some of the projects I’ve been working on. I’m always open to collaboration and learning opportunities, so don’t hesitate to reach out!
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mafuj.bishal.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mafujbishal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mafuj-ahmed-bishal/) 
